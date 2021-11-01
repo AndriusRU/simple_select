@@ -1,0 +1,3207 @@
+{
+	"songs": [
+		{
+			"id": 1,
+			"track": {
+				"name": "A Thousand years",
+				"duration": 241
+			},
+			"artists": [
+				{
+					"name": "Christina Perri",
+					"nickname": "Christina Perri",
+					"country": "США",
+					"genres": [
+						"Поп",
+						"Пиано-рок",
+						"Альтернативный рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "The Twilight Saga",
+					"year": 2011,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"track": {
+				"name": "After The Rain",
+				"duration": 214
+			},
+			"artists": [
+				{
+					"name": "Nickelback",
+					"nickname": "Nickelback",
+					"country": "Канада",
+					"genres": [
+						"Постгранж",
+						"Альтернативный рок",
+						"Хард-рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Feed the Machine",
+					"year": 2017,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 3,
+			"track": {
+				"name": "Alchemy",
+				"duration": 320
+			},
+			"artists": [
+				{
+					"name": "Starset",
+					"nickname": "Starset",
+					"country": "США",
+					"genres": [
+						"Спейс-рок",
+						"Альтернативный рок",
+						"Электроник-рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Horizons",
+					"year": 2021,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 4,
+			"track": {
+				"name": "Amada Amante",
+				"duration": 245
+			},
+			"artists": [
+				{
+					"name": "Marc Anthony",
+					"nickname": "Marc Anthony",
+					"country": "США",
+					"genres": [
+						"Поп",
+						"Сальса"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Iconos",
+					"year": 2010,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 5,
+			"track": {
+				"name": "Arms",
+				"duration": 261
+			},
+			"artists": [
+				{
+					"name": "Christina Perri",
+					"nickname": "Christina Perri",
+					"country": "США",
+					"genres": [
+						"Поп",
+						"Пиано-рок",
+						"Альтернативный рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Lovestrong",
+					"year": 2010,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 6,
+			"track": {
+				"name": "Awakening",
+				"duration": 241
+			},
+			"artists": [
+				{
+					"name": "Jennifer Thomas",
+					"nickname": "Jennifer Thomas",
+					"country": "США",
+					"genres": [
+						"Классическая музыка"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "The Fire Within",
+					"year": 2018,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 7,
+			"track": {
+				"name": "Believer",
+				"duration": 238
+			},
+			"artists": [
+				{
+					"name": "Jennifer Thomas",
+					"nickname": "Jennifer Thomas",
+					"country": "США",
+					"genres": [
+						"Классическая музыка"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "The Fire Within",
+					"year": 2018,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 8,
+			"track": {
+				"name": "Die For You",
+				"duration": 317
+			},
+			"artists": [
+				{
+					"name": "Starset",
+					"nickname": "Starset",
+					"country": "США",
+					"genres": [
+						"Спейс-рок",
+						"Альтернативный рок",
+						"Электроник-рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Vessels",
+					"year": 2016,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 9,
+			"track": {
+				"name": "Espera",
+				"duration": 238
+			},
+			"artists": [
+				{
+					"name": "Marc Anthony",
+					"nickname": "Marc Anthony",
+					"country": "США",
+					"genres": [
+						"Поп",
+						"Сальса"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "3.0",
+					"year": 2013,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 10,
+			"track": {
+				"name": "Eye of the Storm",
+				"duration": 267
+			},
+			"artists": [
+				{
+					"name": "Scorpions",
+					"nickname": "Scorpions",
+					"country": "Германия",
+					"genres": [
+						"Хард-рок",
+						"Хеви-метал",
+						"Глэм-метал"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Return to Forever",
+					"year": 2015,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 11,
+			"track": {
+				"name": "Forbidden Love",
+				"duration": 258
+			},
+			"artists": [
+				{
+					"name": "Полина Гагарина",
+					"nickname": "Полина Гагарина",
+					"country": "Российская Федерация",
+					"genres": [
+						"Поп",
+						"Рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "9",
+					"year": 2016,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 12,
+			"track": {
+				"name": "Heart",
+				"duration": 223
+			},
+			"artists": [
+				{
+					"name": "Yiruma",
+					"nickname": "Yiruma",
+					"country": "Республика Корея",
+					"genres": [
+						"New age"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Piano",
+					"year": 2016,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 13,
+			"track": {
+				"name": "Home",
+				"duration": 232
+			},
+			"artists": [
+				{
+					"name": "Nickelback",
+					"nickname": "Nickelback",
+					"country": "Канада",
+					"genres": [
+						"Постгранж",
+						"Альтернативный рок",
+						"Хард-рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Feed the Machine",
+					"year": 2017,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 14,
+			"track": {
+				"name": "Human",
+				"duration": 250
+			},
+			"artists": [
+				{
+					"name": "Christina Perri",
+					"nickname": "Christina Perri",
+					"country": "США",
+					"genres": [
+						"Поп",
+						"Пиано-рок",
+						"Альтернативный рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Head or Heart",
+					"year": 2013,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 15,
+			"track": {
+				"name": "I surrender",
+				"duration": 287
+			},
+			"artists": [
+				{
+					"name": "Celine Dion",
+					"nickname": "Celine Dion",
+					"country": "Канада",
+					"genres": [
+						"Поп",
+						"Рок",
+						"Танцевальная"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Loved Me Back to Life",
+					"year": 2013,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 16,
+			"track": {
+				"name": "Illumination",
+				"duration": 246
+			},
+			"artists": [
+				{
+					"name": "Jennifer Thomas",
+					"nickname": "Jennifer Thomas",
+					"country": "США",
+					"genres": [
+						"Классическая музыка"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "The Fire Within",
+					"year": 2018,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 17,
+			"track": {
+				"name": "Jar of Hearts",
+				"duration": 247
+			},
+			"artists": [
+				{
+					"name": "Christina Perri",
+					"nickname": "Christina Perri",
+					"country": "США",
+					"genres": [
+						"Поп",
+						"Пиано-рок",
+						"Альтернативный рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Lovestrong",
+					"year": 2010,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 18,
+			"track": {
+				"name": "Kiss the rain",
+				"duration": 242
+			},
+			"artists": [
+				{
+					"name": "Yiruma",
+					"nickname": "Yiruma",
+					"country": "Республика Корея",
+					"genres": [
+						"New age"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "The Rewritten Memories",
+					"year": 2021,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 19,
+			"track": {
+				"name": "La Fotografia",
+				"duration": 318
+			},
+			"artists": [
+				{
+					"name": "Yiruma",
+					"nickname": "Yiruma",
+					"country": "Республика Корея",
+					"genres": [
+						"New age"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "The Rewritten Memories",
+					"year": 2021,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 20,
+			"track": {
+				"name": "Le bonheur en face",
+				"duration": 175
+			},
+			"artists": [
+				{
+					"name": "Celine Dion",
+					"nickname": "Celine Dion",
+					"country": "Канада",
+					"genres": [
+						"Поп",
+						"Рок",
+						"Танцевальная"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Encore un soir",
+					"year": 2016,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 21,
+			"track": {
+				"name": "Look at Us Now",
+				"duration": 198
+			},
+			"artists": [
+				{
+					"name": "Celine Dion",
+					"nickname": "Celine Dion",
+					"country": "Канада",
+					"genres": [
+						"Поп",
+						"Рок",
+						"Танцевальная"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Courage",
+					"year": 2019,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 22,
+			"track": {
+				"name": "Lorelei",
+				"duration": 272
+			},
+			"artists": [
+				{
+					"name": "Scorpions",
+					"nickname": "Scorpions",
+					"country": "Германия",
+					"genres": [
+						"Хард-рок",
+						"Хеви-метал",
+						"Глэм-метал"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Sting in the Tail",
+					"year": 2010,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 23,
+			"track": {
+				"name": "Lullaby",
+				"duration": 228
+			},
+			"artists": [
+				{
+					"name": "Nickelback",
+					"nickname": "Nickelback",
+					"country": "Канада",
+					"genres": [
+						"Постгранж",
+						"Альтернативный рок",
+						"Хард-рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Here and Now",
+					"year": 2011,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 24,
+			"track": {
+				"name": "Monster",
+				"duration": 256
+			},
+			"artists": [
+				{
+					"name": "Starset",
+					"nickname": "Starset",
+					"country": "США",
+					"genres": [
+						"Спейс-рок",
+						"Альтернативный рок",
+						"Электроник-рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Vessels",
+					"year": 2016,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 25,
+			"track": {
+				"name": "Morning",
+				"duration": 246
+			},
+			"artists": [
+				{
+					"name": "Полина Гагарина",
+					"nickname": "Полина Гагарина",
+					"country": "Российская Федерация",
+					"genres": [
+						"Поп",
+						"Рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Попроси у облаков",
+					"year": 2007,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 26,
+			"track": {
+				"name": "My demons",
+				"duration": 288
+			},
+			"artists": [
+				{
+					"name": "Starset",
+					"nickname": "Starset",
+					"country": "США",
+					"genres": [
+						"Спейс-рок",
+						"Альтернативный рок",
+						"Электроник-рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Transmissions",
+					"year": 2014,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 27,
+			"track": {
+				"name": "Old Movie Romance",
+				"duration": 330
+			},
+			"artists": [
+				{
+					"name": "Jennifer Thomas",
+					"nickname": "Jennifer Thomas",
+					"country": "США",
+					"genres": [
+						"Классическая музыка"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Key Of Sea",
+					"year": 2017,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 28,
+			"track": {
+				"name": "Ordinaire",
+				"duration": 284
+			},
+			"artists": [
+				{
+					"name": "Celine Dion",
+					"nickname": "Celine Dion",
+					"country": "Канада",
+					"genres": [
+						"Поп",
+						"Рок",
+						"Танцевальная"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Encore un soir",
+					"year": 2016,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 29,
+			"track": {
+				"name": "Reconozco",
+				"duration": 250
+			},
+			"artists": [
+				{
+					"name": "Marc Anthony",
+					"nickname": "Marc Anthony",
+					"country": "США",
+					"genres": [
+						"Поп",
+						"Сальса"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Opus",
+					"year": 2019,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 30,
+			"track": {
+				"name": "Satellite",
+				"duration": 237
+			},
+			"artists": [
+				{
+					"name": "Nickelback",
+					"nickname": "Nickelback",
+					"country": "Канада",
+					"genres": [
+						"Постгранж",
+						"Альтернативный рок",
+						"Хард-рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "No Fixed Address",
+					"year": 2014,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 31,
+			"track": {
+				"name": "Send me an angel",
+				"duration": 274
+			},
+			"artists": [
+				{
+					"name": "Scorpions",
+					"nickname": "Scorpions",
+					"country": "Германия",
+					"genres": [
+						"Хард-рок",
+						"Хеви-метал",
+						"Глэм-метал"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Crazy World",
+					"year": 1990,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 32,
+			"track": {
+				"name": "Serenade",
+				"duration": 291
+			},
+			"artists": [
+				{
+					"name": "Yiruma",
+					"nickname": "Yiruma",
+					"country": "Республика Корея",
+					"genres": [
+						"New age"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Blind Film",
+					"year": 2014,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 33,
+			"track": {
+				"name": "Sospiro",
+				"duration": 165
+			},
+			"artists": [
+				{
+					"name": "Jennifer Thomas",
+					"nickname": "Jennifer Thomas",
+					"country": "США",
+					"genres": [
+						"Классическая музыка"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Key Of Sea",
+					"year": 2017,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 34,
+			"track": {
+				"name": "Spirit of Rock",
+				"duration": 222
+			},
+			"artists": [
+				{
+					"name": "Scorpions",
+					"nickname": "Scorpions",
+					"country": "Германия",
+					"genres": [
+						"Хард-рок",
+						"Хеви-метал",
+						"Глэм-метал"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Sting in the Tail",
+					"year": 2010,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 35,
+			"track": {
+				"name": "The Chase",
+				"duration": 229
+			},
+			"artists": [
+				{
+					"name": "Celine Dion",
+					"nickname": "Celine Dion",
+					"country": "Канада",
+					"genres": [
+						"Поп",
+						"Рок",
+						"Танцевальная"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Courage",
+					"year": 2019,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 36,
+			"track": {
+				"name": "The Red Aspens",
+				"duration": 265
+			},
+			"artists": [
+				{
+					"name": "Jennifer Thomas",
+					"nickname": "Jennifer Thomas",
+					"country": "США",
+					"genres": [
+						"Классическая музыка"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Key Of Sea",
+					"year": 2017,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 37,
+			"track": {
+				"name": "The Scratch",
+				"duration": 221
+			},
+			"artists": [
+				{
+					"name": "Scorpions",
+					"nickname": "Scorpions",
+					"country": "Германия",
+					"genres": [
+						"Хард-рок",
+						"Хеви-метал",
+						"Глэм-метал"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Return to Forever",
+					"year": 2015,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 38,
+			"track": {
+				"name": "This Endless Endeavor",
+				"duration": 302
+			},
+			"artists": [
+				{
+					"name": "Starset",
+					"nickname": "Starset",
+					"country": "США",
+					"genres": [
+						"Спейс-рок",
+						"Альтернативный рок",
+						"Электроник-рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Horizons",
+					"year": 2021,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 39,
+			"track": {
+				"name": "Un Amor Eterno",
+				"duration": 258
+			},
+			"artists": [
+				{
+					"name": "Marc Anthony",
+					"nickname": "Marc Anthony",
+					"country": "США",
+					"genres": [
+						"Поп",
+						"Сальса"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Opus",
+					"year": 2019,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 40,
+			"track": {
+				"name": "What Are You Waiting For?",
+				"duration": 218
+			},
+			"artists": [
+				{
+					"name": "Nickelback",
+					"nickname": "Nickelback",
+					"country": "Канада",
+					"genres": [
+						"Постгранж",
+						"Альтернативный рок",
+						"Хард-рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "No Fixed Address",
+					"year": 2014,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 41,
+			"track": {
+				"name": "When I Dream at night",
+				"duration": 260
+			},
+			"artists": [
+				{
+					"name": "Marc Anthony",
+					"nickname": "Marc Anthony",
+					"country": "США",
+					"genres": [
+						"Поп",
+						"Сальса"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "3.0",
+					"year": 2013,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 42,
+			"track": {
+				"name": "When We Stand Together",
+				"duration": 190
+			},
+			"artists": [
+				{
+					"name": "Nickelback",
+					"nickname": "Nickelback",
+					"country": "Канада",
+					"genres": [
+						"Постгранж",
+						"Альтернативный рок",
+						"Хард-рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Here and Now",
+					"year": 2011,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 43,
+			"track": {
+				"name": "Yearning",
+				"duration": 224
+			},
+			"artists": [
+				{
+					"name": "Yiruma",
+					"nickname": "Yiruma",
+					"country": "Республика Корея",
+					"genres": [
+						"New age"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Piano",
+					"year": 2016,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 44,
+			"track": {
+				"name": "Виновата я",
+				"duration": 207
+			},
+			"artists": [
+				{
+					"name": "Полина Гагарина",
+					"nickname": "Полина Гагарина",
+					"country": "Российская Федерация",
+					"genres": [
+						"Поп",
+						"Рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "О себе",
+					"year": 2010,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 45,
+			"track": {
+				"name": "Кукушка",
+				"duration": 232
+			},
+			"artists": [
+				{
+					"name": "Полина Гагарина",
+					"nickname": "Полина Гагарина",
+					"country": "Российская Федерация",
+					"genres": [
+						"Поп",
+						"Рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Битва за Севастополь",
+					"year": 2015,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 46,
+			"track": {
+				"name": "Лётчик",
+				"duration": 351
+			},
+			"artists": [
+				{
+					"name": "Би-2",
+					"nickname": "Би-2",
+					"country": "Российская Федерация",
+					"genres": [
+						"Альтернативный рок",
+						"Постпанк",
+						"Поп-рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Горизонт событий",
+					"year": 2017,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 47,
+			"track": {
+				"name": "Молитва",
+				"duration": 337
+			},
+			"artists": [
+				{
+					"name": "Би-2",
+					"nickname": "Би-2",
+					"country": "Российская Федерация",
+					"genres": [
+						"Альтернативный рок",
+						"Постпанк",
+						"Поп-рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Spirit",
+					"year": 2011,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 48,
+			"track": {
+				"name": "Родина",
+				"duration": 326
+			},
+			"artists": [
+				{
+					"name": "Би-2",
+					"nickname": "Би-2",
+					"country": "Российская Федерация",
+					"genres": [
+						"Альтернативный рок",
+						"Постпанк",
+						"Поп-рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Горизонт событий",
+					"year": 2017,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 49,
+			"track": {
+				"name": "Философский камень",
+				"duration": 286
+			},
+			"artists": [
+				{
+					"name": "Би-2",
+					"nickname": "Би-2",
+					"country": "Российская Федерация",
+					"genres": [
+						"Альтернативный рок",
+						"Постпанк",
+						"Поп-рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Горизонт событий",
+					"year": 2017,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 50,
+			"track": {
+				"name": "Шамбала",
+				"duration": 214
+			},
+			"artists": [
+				{
+					"name": "Би-2",
+					"nickname": "Би-2",
+					"country": "Российская Федерация",
+					"genres": [
+						"Альтернативный рок",
+						"Постпанк",
+						"Поп-рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Лунапарк",
+					"year": 2009,
+					"type": "album"
+				}
+			]
+		},
+		{
+			"id": 51,
+			"track": {
+				"name": "A Thousand years",
+				"duration": 241
+			},
+			"artists": [
+				{
+					"name": "Christina Perri",
+					"nickname": "Christina Perri",
+					"country": "США",
+					"genres": [
+						"Поп",
+						"Пиано-рок",
+						"Альтернативный рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "The Romantic Collection",
+					"year": 2018,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 52,
+			"track": {
+				"name": "After The Rain",
+				"duration": 214
+			},
+			"artists": [
+				{
+					"name": "Nickelback",
+					"nickname": "Nickelback",
+					"country": "Канада",
+					"genres": [
+						"Постгранж",
+						"Альтернативный рок",
+						"Хард-рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "The Romantic Collection",
+					"year": 2018,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 53,
+			"track": {
+				"name": "Alchemy",
+				"duration": 320
+			},
+			"artists": [
+				{
+					"name": "Starset",
+					"nickname": "Starset",
+					"country": "США",
+					"genres": [
+						"Спейс-рок",
+						"Альтернативный рок",
+						"Электроник-рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "The Romantic Collection",
+					"year": 2018,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 54,
+			"track": {
+				"name": "Amada Amante",
+				"duration": 245
+			},
+			"artists": [
+				{
+					"name": "Marc Anthony",
+					"nickname": "Marc Anthony",
+					"country": "США",
+					"genres": [
+						"Поп",
+						"Сальса"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "The Romantic Collection",
+					"year": 2018,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 55,
+			"track": {
+				"name": "Arms",
+				"duration": 261
+			},
+			"artists": [
+				{
+					"name": "Christina Perri",
+					"nickname": "Christina Perri",
+					"country": "США",
+					"genres": [
+						"Поп",
+						"Пиано-рок",
+						"Альтернативный рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "The Romantic Collection",
+					"year": 2018,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 56,
+			"track": {
+				"name": "Awakening",
+				"duration": 241
+			},
+			"artists": [
+				{
+					"name": "Jennifer Thomas",
+					"nickname": "Jennifer Thomas",
+					"country": "США",
+					"genres": [
+						"Классическая музыка"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "The Romantic Collection",
+					"year": 2018,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 57,
+			"track": {
+				"name": "Believer",
+				"duration": 238
+			},
+			"artists": [
+				{
+					"name": "Jennifer Thomas",
+					"nickname": "Jennifer Thomas",
+					"country": "США",
+					"genres": [
+						"Классическая музыка"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "The Romantic Collection",
+					"year": 2018,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 58,
+			"track": {
+				"name": "Die For You",
+				"duration": 317
+			},
+			"artists": [
+				{
+					"name": "Starset",
+					"nickname": "Starset",
+					"country": "США",
+					"genres": [
+						"Спейс-рок",
+						"Альтернативный рок",
+						"Электроник-рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "The Romantic Collection",
+					"year": 2018,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 59,
+			"track": {
+				"name": "Espera",
+				"duration": 238
+			},
+			"artists": [
+				{
+					"name": "Marc Anthony",
+					"nickname": "Marc Anthony",
+					"country": "США",
+					"genres": [
+						"Поп",
+						"Сальса"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "The Great Dance",
+					"year": 2017,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 60,
+			"track": {
+				"name": "Eye of the Storm",
+				"duration": 267
+			},
+			"artists": [
+				{
+					"name": "Scorpions",
+					"nickname": "Scorpions",
+					"country": "Германия",
+					"genres": [
+						"Хард-рок",
+						"Хеви-метал",
+						"Глэм-метал"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "The Great Dance",
+					"year": 2017,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 61,
+			"track": {
+				"name": "Forbidden Love",
+				"duration": 258
+			},
+			"artists": [
+				{
+					"name": "Полина Гагарина",
+					"nickname": "Полина Гагарина",
+					"country": "Российская Федерация",
+					"genres": [
+						"Поп",
+						"Рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "The Great Dance",
+					"year": 2017,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 62,
+			"track": {
+				"name": "Heart",
+				"duration": 223
+			},
+			"artists": [
+				{
+					"name": "Yiruma",
+					"nickname": "Yiruma",
+					"country": "Республика Корея",
+					"genres": [
+						"New age"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "The Best Rock",
+					"year": 2019,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 63,
+			"track": {
+				"name": "Home",
+				"duration": 232
+			},
+			"artists": [
+				{
+					"name": "Nickelback",
+					"nickname": "Nickelback",
+					"country": "Канада",
+					"genres": [
+						"Постгранж",
+						"Альтернативный рок",
+						"Хард-рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "The Best Rock",
+					"year": 2019,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 64,
+			"track": {
+				"name": "Human",
+				"duration": 250
+			},
+			"artists": [
+				{
+					"name": "Christina Perri",
+					"nickname": "Christina Perri",
+					"country": "США",
+					"genres": [
+						"Поп",
+						"Пиано-рок",
+						"Альтернативный рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "The Great Dance",
+					"year": 2017,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 65,
+			"track": {
+				"name": "I surrender",
+				"duration": 287
+			},
+			"artists": [
+				{
+					"name": "Celine Dion",
+					"nickname": "Celine Dion",
+					"country": "Канада",
+					"genres": [
+						"Поп",
+						"Рок",
+						"Танцевальная"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "The Great Dance",
+					"year": 2017,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 66,
+			"track": {
+				"name": "Illumination",
+				"duration": 246
+			},
+			"artists": [
+				{
+					"name": "Jennifer Thomas",
+					"nickname": "Jennifer Thomas",
+					"country": "США",
+					"genres": [
+						"Классическая музыка"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Classic",
+					"year": 2018,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 67,
+			"track": {
+				"name": "Jar of Hearts",
+				"duration": 247
+			},
+			"artists": [
+				{
+					"name": "Christina Perri",
+					"nickname": "Christina Perri",
+					"country": "США",
+					"genres": [
+						"Поп",
+						"Пиано-рок",
+						"Альтернативный рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "The Great Dance",
+					"year": 2017,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 68,
+			"track": {
+				"name": "Kiss the rain",
+				"duration": 242
+			},
+			"artists": [
+				{
+					"name": "Yiruma",
+					"nickname": "Yiruma",
+					"country": "Республика Корея",
+					"genres": [
+						"New age"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "The Great Dance",
+					"year": 2017,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 69,
+			"track": {
+				"name": "La Fotografia",
+				"duration": 318
+			},
+			"artists": [
+				{
+					"name": "Yiruma",
+					"nickname": "Yiruma",
+					"country": "Республика Корея",
+					"genres": [
+						"New age"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Classic",
+					"year": 2018,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 70,
+			"track": {
+				"name": "Le bonheur en face",
+				"duration": 175
+			},
+			"artists": [
+				{
+					"name": "Celine Dion",
+					"nickname": "Celine Dion",
+					"country": "Канада",
+					"genres": [
+						"Поп",
+						"Рок",
+						"Танцевальная"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "The Great Dance",
+					"year": 2017,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 71,
+			"track": {
+				"name": "Look at Us Now",
+				"duration": 198
+			},
+			"artists": [
+				{
+					"name": "Celine Dion",
+					"nickname": "Celine Dion",
+					"country": "Канада",
+					"genres": [
+						"Поп",
+						"Рок",
+						"Танцевальная"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "The Best Rock",
+					"year": 2019,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 72,
+			"track": {
+				"name": "Lorelei",
+				"duration": 272
+			},
+			"artists": [
+				{
+					"name": "Scorpions",
+					"nickname": "Scorpions",
+					"country": "Германия",
+					"genres": [
+						"Хард-рок",
+						"Хеви-метал",
+						"Глэм-метал"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "The Best Rock",
+					"year": 2019,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 73,
+			"track": {
+				"name": "Lullaby",
+				"duration": 228
+			},
+			"artists": [
+				{
+					"name": "Nickelback",
+					"nickname": "Nickelback",
+					"country": "Канада",
+					"genres": [
+						"Постгранж",
+						"Альтернативный рок",
+						"Хард-рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "New Rock",
+					"year": 2020,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 74,
+			"track": {
+				"name": "Monster",
+				"duration": 256
+			},
+			"artists": [
+				{
+					"name": "Starset",
+					"nickname": "Starset",
+					"country": "США",
+					"genres": [
+						"Спейс-рок",
+						"Альтернативный рок",
+						"Электроник-рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "New Rock",
+					"year": 2020,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 75,
+			"track": {
+				"name": "Morning",
+				"duration": 246
+			},
+			"artists": [
+				{
+					"name": "Полина Гагарина",
+					"nickname": "Полина Гагарина",
+					"country": "Российская Федерация",
+					"genres": [
+						"Поп",
+						"Рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "The Great Dance",
+					"year": 2017,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 76,
+			"track": {
+				"name": "My demons",
+				"duration": 288
+			},
+			"artists": [
+				{
+					"name": "Starset",
+					"nickname": "Starset",
+					"country": "США",
+					"genres": [
+						"Спейс-рок",
+						"Альтернативный рок",
+						"Электроник-рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "The Best Rock",
+					"year": 2019,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 77,
+			"track": {
+				"name": "Old Movie Romance",
+				"duration": 330
+			},
+			"artists": [
+				{
+					"name": "Jennifer Thomas",
+					"nickname": "Jennifer Thomas",
+					"country": "США",
+					"genres": [
+						"Классическая музыка"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Classic",
+					"year": 2018,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 78,
+			"track": {
+				"name": "Ordinaire",
+				"duration": 284
+			},
+			"artists": [
+				{
+					"name": "Celine Dion",
+					"nickname": "Celine Dion",
+					"country": "Канада",
+					"genres": [
+						"Поп",
+						"Рок",
+						"Танцевальная"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "The Best Rock",
+					"year": 2019,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 79,
+			"track": {
+				"name": "Reconozco",
+				"duration": 250
+			},
+			"artists": [
+				{
+					"name": "Marc Anthony",
+					"nickname": "Marc Anthony",
+					"country": "США",
+					"genres": [
+						"Поп",
+						"Сальса"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "The Great Dance",
+					"year": 2017,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 80,
+			"track": {
+				"name": "Satellite",
+				"duration": 237
+			},
+			"artists": [
+				{
+					"name": "Nickelback",
+					"nickname": "Nickelback",
+					"country": "Канада",
+					"genres": [
+						"Постгранж",
+						"Альтернативный рок",
+						"Хард-рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "New Rock",
+					"year": 2020,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 81,
+			"track": {
+				"name": "Send me an angel",
+				"duration": 274
+			},
+			"artists": [
+				{
+					"name": "Scorpions",
+					"nickname": "Scorpions",
+					"country": "Германия",
+					"genres": [
+						"Хард-рок",
+						"Хеви-метал",
+						"Глэм-метал"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "The Best Rock",
+					"year": 2019,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 82,
+			"track": {
+				"name": "Serenade",
+				"duration": 291
+			},
+			"artists": [
+				{
+					"name": "Yiruma",
+					"nickname": "Yiruma",
+					"country": "Республика Корея",
+					"genres": [
+						"New age"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Classic",
+					"year": 2018,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 83,
+			"track": {
+				"name": "Sospiro",
+				"duration": 165
+			},
+			"artists": [
+				{
+					"name": "Jennifer Thomas",
+					"nickname": "Jennifer Thomas",
+					"country": "США",
+					"genres": [
+						"Классическая музыка"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Classic",
+					"year": 2018,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 84,
+			"track": {
+				"name": "Spirit of Rock",
+				"duration": 222
+			},
+			"artists": [
+				{
+					"name": "Scorpions",
+					"nickname": "Scorpions",
+					"country": "Германия",
+					"genres": [
+						"Хард-рок",
+						"Хеви-метал",
+						"Глэм-метал"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "The Best Rock",
+					"year": 2019,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 85,
+			"track": {
+				"name": "The Chase",
+				"duration": 229
+			},
+			"artists": [
+				{
+					"name": "Celine Dion",
+					"nickname": "Celine Dion",
+					"country": "Канада",
+					"genres": [
+						"Поп",
+						"Рок",
+						"Танцевальная"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Ballads",
+					"year": 2019,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 86,
+			"track": {
+				"name": "The Red Aspens",
+				"duration": 265
+			},
+			"artists": [
+				{
+					"name": "Jennifer Thomas",
+					"nickname": "Jennifer Thomas",
+					"country": "США",
+					"genres": [
+						"Классическая музыка"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Classic",
+					"year": 2018,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 87,
+			"track": {
+				"name": "The Scratch",
+				"duration": 221
+			},
+			"artists": [
+				{
+					"name": "Scorpions",
+					"nickname": "Scorpions",
+					"country": "Германия",
+					"genres": [
+						"Хард-рок",
+						"Хеви-метал",
+						"Глэм-метал"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "The Best Rock",
+					"year": 2019,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 88,
+			"track": {
+				"name": "This Endless Endeavor",
+				"duration": 302
+			},
+			"artists": [
+				{
+					"name": "Starset",
+					"nickname": "Starset",
+					"country": "США",
+					"genres": [
+						"Спейс-рок",
+						"Альтернативный рок",
+						"Электроник-рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "New Rock",
+					"year": 2020,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 89,
+			"track": {
+				"name": "Un Amor Eterno",
+				"duration": 258
+			},
+			"artists": [
+				{
+					"name": "Marc Anthony",
+					"nickname": "Marc Anthony",
+					"country": "США",
+					"genres": [
+						"Поп",
+						"Сальса"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Ballads",
+					"year": 2019,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 90,
+			"track": {
+				"name": "What Are You Waiting For?",
+				"duration": 218
+			},
+			"artists": [
+				{
+					"name": "Nickelback",
+					"nickname": "Nickelback",
+					"country": "Канада",
+					"genres": [
+						"Постгранж",
+						"Альтернативный рок",
+						"Хард-рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "New Rock",
+					"year": 2020,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 91,
+			"track": {
+				"name": "When I Dream at night",
+				"duration": 260
+			},
+			"artists": [
+				{
+					"name": "Marc Anthony",
+					"nickname": "Marc Anthony",
+					"country": "США",
+					"genres": [
+						"Поп",
+						"Сальса"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Ballads",
+					"year": 2019,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 92,
+			"track": {
+				"name": "When We Stand Together",
+				"duration": 190
+			},
+			"artists": [
+				{
+					"name": "Nickelback",
+					"nickname": "Nickelback",
+					"country": "Канада",
+					"genres": [
+						"Постгранж",
+						"Альтернативный рок",
+						"Хард-рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "New Rock",
+					"year": 2020,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 93,
+			"track": {
+				"name": "Yearning",
+				"duration": 224
+			},
+			"artists": [
+				{
+					"name": "Yiruma",
+					"nickname": "Yiruma",
+					"country": "Республика Корея",
+					"genres": [
+						"New age"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Classic",
+					"year": 2018,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 94,
+			"track": {
+				"name": "Виновата я",
+				"duration": 207
+			},
+			"artists": [
+				{
+					"name": "Полина Гагарина",
+					"nickname": "Полина Гагарина",
+					"country": "Российская Федерация",
+					"genres": [
+						"Поп",
+						"Рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Ballads",
+					"year": 2019,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 95,
+			"track": {
+				"name": "Кукушка",
+				"duration": 232
+			},
+			"artists": [
+				{
+					"name": "Полина Гагарина",
+					"nickname": "Полина Гагарина",
+					"country": "Российская Федерация",
+					"genres": [
+						"Поп",
+						"Рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Ballads",
+					"year": 2019,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 96,
+			"track": {
+				"name": "Лётчик",
+				"duration": 351
+			},
+			"artists": [
+				{
+					"name": "Би-2",
+					"nickname": "Би-2",
+					"country": "Российская Федерация",
+					"genres": [
+						"Альтернативный рок",
+						"Постпанк",
+						"Поп-рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "The Best Rock",
+					"year": 2019,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 97,
+			"track": {
+				"name": "Молитва",
+				"duration": 337
+			},
+			"artists": [
+				{
+					"name": "Би-2",
+					"nickname": "Би-2",
+					"country": "Российская Федерация",
+					"genres": [
+						"Альтернативный рок",
+						"Постпанк",
+						"Поп-рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "The Best Rock",
+					"year": 2019,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 98,
+			"track": {
+				"name": "Родина",
+				"duration": 326
+			},
+			"artists": [
+				{
+					"name": "Би-2",
+					"nickname": "Би-2",
+					"country": "Российская Федерация",
+					"genres": [
+						"Альтернативный рок",
+						"Постпанк",
+						"Поп-рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Ballads",
+					"year": 2019,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 99,
+			"track": {
+				"name": "Философский камень",
+				"duration": 286
+			},
+			"artists": [
+				{
+					"name": "Би-2",
+					"nickname": "Би-2",
+					"country": "Российская Федерация",
+					"genres": [
+						"Альтернативный рок",
+						"Постпанк",
+						"Поп-рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "New Rock",
+					"year": 2020,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 100,
+			"track": {
+				"name": "Шамбала",
+				"duration": 214
+			},
+			"artists": [
+				{
+					"name": "Би-2",
+					"nickname": "Би-2",
+					"country": "Российская Федерация",
+					"genres": [
+						"Альтернативный рок",
+						"Постпанк",
+						"Поп-рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "Ballads",
+					"year": 2019,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 101,
+			"track": {
+				"name": "A Thousand years",
+				"duration": 241
+			},
+			"artists": [
+				{
+					"name": "Christina Perri",
+					"nickname": "Christina Perri",
+					"country": "США",
+					"genres": [
+						"Поп",
+						"Пиано-рок",
+						"Альтернативный рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "PopDance",
+					"year": 2017,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 102,
+			"track": {
+				"name": "After The Rain",
+				"duration": 214
+			},
+			"artists": [
+				{
+					"name": "Nickelback",
+					"nickname": "Nickelback",
+					"country": "Канада",
+					"genres": [
+						"Постгранж",
+						"Альтернативный рок",
+						"Хард-рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "RockStar",
+					"year": 2018,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 103,
+			"track": {
+				"name": "Amada Amante",
+				"duration": 245
+			},
+			"artists": [
+				{
+					"name": "Marc Anthony",
+					"nickname": "Marc Anthony",
+					"country": "США",
+					"genres": [
+						"Поп",
+						"Сальса"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "PopDance",
+					"year": 2017,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 104,
+			"track": {
+				"name": "Espera",
+				"duration": 238
+			},
+			"artists": [
+				{
+					"name": "Marc Anthony",
+					"nickname": "Marc Anthony",
+					"country": "США",
+					"genres": [
+						"Поп",
+						"Сальса"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "PopDance",
+					"year": 2017,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 105,
+			"track": {
+				"name": "Eye of the Storm",
+				"duration": 267
+			},
+			"artists": [
+				{
+					"name": "Scorpions",
+					"nickname": "Scorpions",
+					"country": "Германия",
+					"genres": [
+						"Хард-рок",
+						"Хеви-метал",
+						"Глэм-метал"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "RockStar",
+					"year": 2018,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 106,
+			"track": {
+				"name": "Human",
+				"duration": 250
+			},
+			"artists": [
+				{
+					"name": "Christina Perri",
+					"nickname": "Christina Perri",
+					"country": "США",
+					"genres": [
+						"Поп",
+						"Пиано-рок",
+						"Альтернативный рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "PopDance",
+					"year": 2017,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 107,
+			"track": {
+				"name": "I surrender",
+				"duration": 287
+			},
+			"artists": [
+				{
+					"name": "Celine Dion",
+					"nickname": "Celine Dion",
+					"country": "Канада",
+					"genres": [
+						"Поп",
+						"Рок",
+						"Танцевальная"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "PopDance",
+					"year": 2017,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 108,
+			"track": {
+				"name": "Jar of Hearts",
+				"duration": 247
+			},
+			"artists": [
+				{
+					"name": "Christina Perri",
+					"nickname": "Christina Perri",
+					"country": "США",
+					"genres": [
+						"Поп",
+						"Пиано-рок",
+						"Альтернативный рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "RockStar",
+					"year": 2018,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 109,
+			"track": {
+				"name": "Le bonheur en face",
+				"duration": 175
+			},
+			"artists": [
+				{
+					"name": "Celine Dion",
+					"nickname": "Celine Dion",
+					"country": "Канада",
+					"genres": [
+						"Поп",
+						"Рок",
+						"Танцевальная"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "RockStar",
+					"year": 2018,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 110,
+			"track": {
+				"name": "Look at Us Now",
+				"duration": 198
+			},
+			"artists": [
+				{
+					"name": "Celine Dion",
+					"nickname": "Celine Dion",
+					"country": "Канада",
+					"genres": [
+						"Поп",
+						"Рок",
+						"Танцевальная"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "PopDance",
+					"year": 2017,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 111,
+			"track": {
+				"name": "Lorelei",
+				"duration": 272
+			},
+			"artists": [
+				{
+					"name": "Scorpions",
+					"nickname": "Scorpions",
+					"country": "Германия",
+					"genres": [
+						"Хард-рок",
+						"Хеви-метал",
+						"Глэм-метал"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "NoLimits",
+					"year": 2020,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 112,
+			"track": {
+				"name": "Morning",
+				"duration": 246
+			},
+			"artists": [
+				{
+					"name": "Полина Гагарина",
+					"nickname": "Полина Гагарина",
+					"country": "Российская Федерация",
+					"genres": [
+						"Поп",
+						"Рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "PopDance",
+					"year": 2017,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 113,
+			"track": {
+				"name": "My demons",
+				"duration": 288
+			},
+			"artists": [
+				{
+					"name": "Starset",
+					"nickname": "Starset",
+					"country": "США",
+					"genres": [
+						"Спейс-рок",
+						"Альтернативный рок",
+						"Электроник-рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "RockStar",
+					"year": 2018,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 114,
+			"track": {
+				"name": "Old Movie Romance",
+				"duration": 330
+			},
+			"artists": [
+				{
+					"name": "Jennifer Thomas",
+					"nickname": "Jennifer Thomas",
+					"country": "США",
+					"genres": [
+						"Классическая музыка"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "NoLimits",
+					"year": 2020,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 115,
+			"track": {
+				"name": "Ordinaire",
+				"duration": 284
+			},
+			"artists": [
+				{
+					"name": "Celine Dion",
+					"nickname": "Celine Dion",
+					"country": "Канада",
+					"genres": [
+						"Поп",
+						"Рок",
+						"Танцевальная"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "RockStar",
+					"year": 2018,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 116,
+			"track": {
+				"name": "Reconozco",
+				"duration": 250
+			},
+			"artists": [
+				{
+					"name": "Marc Anthony",
+					"nickname": "Marc Anthony",
+					"country": "США",
+					"genres": [
+						"Поп",
+						"Сальса"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "NoLimits",
+					"year": 2020,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 117,
+			"track": {
+				"name": "Satellite",
+				"duration": 237
+			},
+			"artists": [
+				{
+					"name": "Nickelback",
+					"nickname": "Nickelback",
+					"country": "Канада",
+					"genres": [
+						"Постгранж",
+						"Альтернативный рок",
+						"Хард-рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "PopDance",
+					"year": 2017,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 118,
+			"track": {
+				"name": "Send me an angel",
+				"duration": 274
+			},
+			"artists": [
+				{
+					"name": "Scorpions",
+					"nickname": "Scorpions",
+					"country": "Германия",
+					"genres": [
+						"Хард-рок",
+						"Хеви-метал",
+						"Глэм-метал"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "RockStar",
+					"year": 2018,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 119,
+			"track": {
+				"name": "Serenade",
+				"duration": 291
+			},
+			"artists": [
+				{
+					"name": "Yiruma",
+					"nickname": "Yiruma",
+					"country": "Республика Корея",
+					"genres": [
+						"New age"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "NoLimits",
+					"year": 2020,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 120,
+			"track": {
+				"name": "Sospiro",
+				"duration": 165
+			},
+			"artists": [
+				{
+					"name": "Jennifer Thomas",
+					"nickname": "Jennifer Thomas",
+					"country": "США",
+					"genres": [
+						"Классическая музыка"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "PopDance",
+					"year": 2017,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 121,
+			"track": {
+				"name": "Spirit of Rock",
+				"duration": 222
+			},
+			"artists": [
+				{
+					"name": "Scorpions",
+					"nickname": "Scorpions",
+					"country": "Германия",
+					"genres": [
+						"Хард-рок",
+						"Хеви-метал",
+						"Глэм-метал"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "PopDance",
+					"year": 2017,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 122,
+			"track": {
+				"name": "The Chase",
+				"duration": 229
+			},
+			"artists": [
+				{
+					"name": "Celine Dion",
+					"nickname": "Celine Dion",
+					"country": "Канада",
+					"genres": [
+						"Поп",
+						"Рок",
+						"Танцевальная"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "NoLimits",
+					"year": 2020,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 123,
+			"track": {
+				"name": "The Scratch",
+				"duration": 221
+			},
+			"artists": [
+				{
+					"name": "Scorpions",
+					"nickname": "Scorpions",
+					"country": "Германия",
+					"genres": [
+						"Хард-рок",
+						"Хеви-метал",
+						"Глэм-метал"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "NoLimits",
+					"year": 2020,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 124,
+			"track": {
+				"name": "Un Amor Eterno",
+				"duration": 258
+			},
+			"artists": [
+				{
+					"name": "Marc Anthony",
+					"nickname": "Marc Anthony",
+					"country": "США",
+					"genres": [
+						"Поп",
+						"Сальса"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "NoLimits",
+					"year": 2020,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 125,
+			"track": {
+				"name": "What Are You Waiting For?",
+				"duration": 218
+			},
+			"artists": [
+				{
+					"name": "Nickelback",
+					"nickname": "Nickelback",
+					"country": "Канада",
+					"genres": [
+						"Постгранж",
+						"Альтернативный рок",
+						"Хард-рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "NoLimits",
+					"year": 2020,
+					"type": "collection"
+				}
+			]
+		},
+		{
+			"id": 126,
+			"track": {
+				"name": "When We Stand Together",
+				"duration": 190
+			},
+			"artists": [
+				{
+					"name": "Nickelback",
+					"nickname": "Nickelback",
+					"country": "Канада",
+					"genres": [
+						"Постгранж",
+						"Альтернативный рок",
+						"Хард-рок"
+					]
+				}
+			],
+			"albums": [
+				{
+					"name": "NoLimits",
+					"year": 2020,
+					"type": "collection"
+				}
+			]
+		}
+	]
+}
