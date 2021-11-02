@@ -98,26 +98,6 @@ def create_base(connection):
         CONSTRAINT rsCollectionTrack_track_fk FOREIGN KEY (track_id) REFERENCES songs2.tracks (id));""")
 
 
-# return ID from table, if this value exist. Otherwise, None
-def is_exist(db, table, dict_field_value):
-    str_condition = ''
-    i = 1
-    for field, value in dict_field_value.items():
-        if isinstance(value, str):
-            str_condition += f"{field} = '{value}'"
-        else:
-            str_condition += f"{field} = {value}"
-        if i < len(dict_field_value):
-            str_condition += " AND "
-        i += 1
-    # print(str_condition)
-
-    try:
-        return db.execute(f"SELECT id from songs2.{table} WHERE {str_condition};").fetchall()[0][0]
-    except:
-        return None
-
-
 db_connect = connection_database()
 create_base(db_connect)
 
