@@ -1,5 +1,6 @@
 import sqlalchemy
 
+
 # Connection to database
 def connection_database():
     db = {
